@@ -11,6 +11,4 @@ public class ProyectoED {
 		return (int) (Math.random() * (Max - Min + 1) + Min);
 	}
 	
-	
-
 }
